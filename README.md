@@ -2,6 +2,8 @@
 
 Dataset for our NAACL 2022 Findings paper: Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training https://aclanthology.org/2022.findings-naacl.92/
 
+The dataset is released under [CDLA-Permissive-2.0](https://cdla.dev/).
+
 If you use our data, please cite our paper as follows:
 
 ```
