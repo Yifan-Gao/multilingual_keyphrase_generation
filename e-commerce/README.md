@@ -1,1 +1,1 @@
-Please refer to `link-to-be-updated` for data access.
+Please refer to https://github.com/amzn/multilingual-keyphrase-generation/data/ for data access.

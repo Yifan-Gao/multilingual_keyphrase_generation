@@ -1,6 +1,6 @@
-# Multilingual Keyphrase Generation Dataset
+# Multilingual Keyphrase Generation
 
-Dataset for our NAACL 2022 Findings paper: Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training https://aclanthology.org/2022.findings-naacl.92/
+Code \& Dataset for our NAACL 2022 Findings paper: Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training https://aclanthology.org/2022.findings-naacl.92/
 
 The dataset is released under [CDLA-Permissive-2.0](https://cdla.dev/).
 
@@ -29,8 +29,11 @@ If you use our data, please cite our paper as follows:
 }
 ```
 
+## Code
 
-## E-Commerce Domain (EcommerceMKP)
+https://github.com/amzn/multilingual-keyphrase-generation
+
+## Dataset in E-Commerce Domain (EcommerceMKP)
 
 A multilingual keyphrase generation dataset on the e-commerce domain, built on Amazon product data. It includes (`passage`, `keyphrases`) pairs in Spanish, French, German and Italian. 
 
@@ -50,7 +53,7 @@ Each instance in our dataset is in the `jsonl` format including the following en
 In addition, we provide the Amazon English keyphrase generation dataset (`./e-commerce/en.json`) for experimental replication purpose.
 The instances in the `en.json` are of the same format with our multilingual dataset. The product appears in different languages share the same `id`.
 
-## Academic Domain (AcademicMKP)
+## Dataset in Academic Domain (AcademicMKP)
 
 A multilingual keyphrase generation dataset on the academic domain, built on Microsoft Academic Graph. It includes (`passage`, `keyphrases`) pairs in Korean and Chinese. 
 
