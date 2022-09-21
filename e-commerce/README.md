@@ -1,1 +1,1 @@
-Please refer to https://github.com/amzn/multilingual-keyphrase-generation/data/ for data access.
+Please refer to https://github.com/amzn/multilingual-keyphrase-generation/tree/main/data for data access.
